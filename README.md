@@ -1,0 +1,3 @@
+## Data Structures And Algorithms Lab
+
+This repository holds the source codes and problem statements for the various lab assignments given to me for the Data Structures Lab in my 3rd semester. I am sincerely sorry for any non-functioning or redundant or poorly written code that you may come across while going through this repository. As far as L8 is concerned, i still haven't done that, i probably will someday :)
