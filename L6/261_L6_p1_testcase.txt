@@ -1,0 +1,19 @@
+TESTCASE 1:
+A B
+A D
+B E
+B C
+C G
+C F
+D E
+E G
+
+TESTCASE 2:
+A B 
+A D
+B C
+B F
+D E
+E G
+F H
+G I
